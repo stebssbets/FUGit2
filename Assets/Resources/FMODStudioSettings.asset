@@ -13,9 +13,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: 
-  SourceProjectPathUnformatted: 
-  SourceBankPathUnformatted: 
+  sourceProjectPath: FUGIT2_FMOD_Project\FUGIT2_FMOD_Project.fspro
+  SourceProjectPathUnformatted: FUGIT2_FMOD_Project\FUGIT2_FMOD_Project.fspro
+  SourceBankPathUnformatted: FUGIT2_FMOD_Project\Build
   AutomaticEventLoading: 1
   AutomaticSampleLoading: 0
   ImportType: 0
