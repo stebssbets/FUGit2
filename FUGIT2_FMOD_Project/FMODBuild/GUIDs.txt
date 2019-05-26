@@ -1,3 +1,4 @@
+{d28fa287-a9f3-46e6-b078-2456e4e12a25} event:/TestSoundEvent
 {9e0a4e73-1975-418f-89e7-eb2dbc6c1450} bus:/
 {fc917bb4-37c8-4f3d-b4bf-f7a0251552c6} bus:/Reverb
 {ec689191-fb3a-4ed7-be87-9a28873589c9} bank:/Master Bank
